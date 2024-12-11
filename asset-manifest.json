@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/gvr/static/css/main.a67d8a76.css",
+    "main.js": "/gvr/static/js/main.464e1dda.js",
+    "static/css/712.5ebb9a12.chunk.css": "/gvr/static/css/712.5ebb9a12.chunk.css",
+    "static/js/712.d5470b06.chunk.js": "/gvr/static/js/712.d5470b06.chunk.js",
+    "static/js/567.27698b0b.chunk.js": "/gvr/static/js/567.27698b0b.chunk.js",
+    "static/js/197.079af033.chunk.js": "/gvr/static/js/197.079af033.chunk.js",
+    "static/media/cat.png": "/gvr/static/media/cat.7392d0e46672510c6156.png",
+    "static/media/bbs.png": "/gvr/static/media/bbs.1ddb1454d6c473dd903c.png",
+    "static/media/dr.png": "/gvr/static/media/dr.e03bc678832eaddada40.png",
+    "static/media/sai.png": "/gvr/static/media/sai.4faf14deaf1c0faaffde.png",
+    "static/media/wms.png": "/gvr/static/media/wms.9c55a3cb961f1a7f857e.png",
+    "static/media/itqhub.png": "/gvr/static/media/itqhub.2abb9ea9ecf16fb54536.png",
+    "static/media/about-us.svg": "/gvr/static/media/about-us.dfed75ced1429c37ecf450376e6f7fe3.svg",
+    "static/media/services.svg": "/gvr/static/media/services.80dc8aa41e9f1bbf4e0eca03600e89e1.svg",
+    "static/media/cv.pdf": "/gvr/static/media/cv.4049d5d4fb76f2466b54.pdf",
+    "static/media/about.svg": "/gvr/static/media/about.f842407706251b7b21211c02da4fb4e6.svg",
+    "static/media/bg.png": "/gvr/static/media/bg.e59dde3664b97d6a50c2.png",
+    "static/media/whatsapp.svg": "/gvr/static/media/whatsapp.7dc3f3267bee9b39fd8d08466208e48a.svg",
+    "static/media/slick.svg": "/gvr/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gvr/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gvr/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gvr/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gvr/index.html",
+    "main.a67d8a76.css.map": "/gvr/static/css/main.a67d8a76.css.map",
+    "main.464e1dda.js.map": "/gvr/static/js/main.464e1dda.js.map",
+    "712.5ebb9a12.chunk.css.map": "/gvr/static/css/712.5ebb9a12.chunk.css.map",
+    "712.d5470b06.chunk.js.map": "/gvr/static/js/712.d5470b06.chunk.js.map",
+    "567.27698b0b.chunk.js.map": "/gvr/static/js/567.27698b0b.chunk.js.map",
+    "197.079af033.chunk.js.map": "/gvr/static/js/197.079af033.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67d8a76.css",
+    "static/js/main.464e1dda.js"
+  ]
+}
